@@ -1,0 +1,103 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 0ZkLxjRuLHA592BxS3RkdNDOlQE=
+
+Name: system/lib/modules/kineto_gan.ko
+SHA1-Digest: czbRmFm7EsdThhYaI6cnrxsaZB4=
+
+Name: system/lib/modules/xfrm6_mode_beet.ko
+SHA1-Digest: 3wvwsZIxHv4QILo9arZFJeyB/HM=
+
+Name: system/lib/modules/ip6_tunnel.ko
+SHA1-Digest: Q3BZ0DsWp4ojOnOy2c44Cs3vE8I=
+
+Name: system/lib/modules/bcm4329.ko
+SHA1-Digest: eiYUwqshDTbVD3FwODPKsAt+M6w=
+
+Name: system/lib/modules/sunrpc.ko
+SHA1-Digest: /f/ALevTDLEPUwoRFg2UUbkr6bo=
+
+Name: system/lib/modules/xfrm6_mode_tunnel.ko
+SHA1-Digest: 9n+GeEHmhzfIAoTrE9/jesEAVic=
+
+Name: kernel/unpackbootimg
+SHA1-Digest: 6ey68JNezvALjFYnwrnJHLYwByg=
+
+Name: system/lib/modules/sit.ko
+SHA1-Digest: 90MRCmlxCC0iJriphue+LdIKbMY=
+
+Name: system/lib/modules/rpcsec_gss_krb5.ko
+SHA1-Digest: VcfmUEnlrIcZwaCC4aDhbmHgrxg=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: dSwV/tnJgIGGABus08WT0jUcHMA=
+
+Name: kernel/mkbootimg
+SHA1-Digest: NbZHHfZfowjgXbnJPZ7dVeofvb0=
+
+Name: kernel/zImage
+SHA1-Digest: gC1ZcQYOC3+hCnUeHe3rVRycq3o=
+
+Name: system/lib/modules/ipcomp6.ko
+SHA1-Digest: IZu4OqVnnc4XWvLnLZqzpt9XTF0=
+
+Name: system/lib/modules/ah6.ko
+SHA1-Digest: m5MtkAdoq76G5YTgLnJk7lNKVto=
+
+Name: system/lib/modules/xfrm6_mode_transport.ko
+SHA1-Digest: 7QQZ4Iv+jfv7klmV7zn0w9iLjpI=
+
+Name: kernel/dump_image
+SHA1-Digest: i0DlCGgtGSwM8emxGsfqze5girs=
+
+Name: kernel/mkbootimg.sh
+SHA1-Digest: KYgOw4R0p/CJ8L4BRFCaZQuLXI0=
+
+Name: system/lib/modules/mip6.ko
+SHA1-Digest: 5XLNf7pjhCJbh0jd1A/3j+IsLGU=
+
+Name: system/lib/modules/tun.ko
+SHA1-Digest: KMzs4PTL6RH+7+RBC1djnb2ZwV4=
+
+Name: system/lib/modules/nfs.ko
+SHA1-Digest: 7I/zCjzuTX0O+7oq7UtdFRm739g=
+
+Name: system/lib/modules/exportfs.ko
+SHA1-Digest: SV99Xa7oJk+iq7199GjyFYbEs44=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Zpy64yoH5MdkIFe0PRVmoqB6CTo=
+
+Name: system/lib/modules/xfrm6_tunnel.ko
+SHA1-Digest: tRIpTn+H/ZyH4T1hmIXk8W8uSvs=
+
+Name: system/lib/modules/cifs.ko
+SHA1-Digest: Ms2ExJ2jMc88R4s67j9Qq+62HPQ=
+
+Name: system/lib/modules/esp6.ko
+SHA1-Digest: 62piAFRn9WliTL9jGwJVkd46ZG0=
+
+Name: system/lib/modules/tunnel6.ko
+SHA1-Digest: cZ1+lKedovDuCJskKIpNJaM/CHc=
+
+Name: system/lib/modules/nfsd.ko
+SHA1-Digest: onnzX3QfMb8uShcUxnAL/5A+zzY=
+
+Name: system/lib/modules/ipv6.ko
+SHA1-Digest: nzjaTPeNsIYv0LjHmrUSonW46eA=
+
+Name: system/lib/modules/auth_rpcgss.ko
+SHA1-Digest: mlDYwwt2KdHGznbNtX4H3Q/4KJQ=
+
+Name: system/lib/modules/nls_utf8.ko
+SHA1-Digest: /TcxvDVKQNEv1jKZ/zv3/cC+KFU=
+
+Name: system/lib/modules/nfs_acl.ko
+SHA1-Digest: jJN6c7W9cN1jEZACVhatFEEQxHk=
+
+Name: system/lib/modules/fuse.ko
+SHA1-Digest: kbRC1ZW+KhXjzy34qZIJTL/jm9Q=
+
+Name: system/lib/modules/lockd.ko
+SHA1-Digest: nkJwz+Ea6phEWUTO0oEe45NN2KE=
+
